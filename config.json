@@ -1,0 +1,7 @@
+{
+	"BOT_TOKEN": "Your Discord Bot token",
+	"NGROK_TOKEN": "Your ngrok access token",
+	"CRAFTY_TOKEN": "Your Crafty API token",
+	"MESSAGE_CHANNEL_ID": "Channel ID of the Channel where the Bot should write the URLs",
+	"DEBUG_CHANNEL_ID": "Channel ID of the Channel from which you want to control the Bot"
+}
